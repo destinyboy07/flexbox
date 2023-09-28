@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.border{
+    border-bottom: 8px solid palevioletred;
+    padding: 3px;
+    margin: 0 200px 20px 200px;
+}
+.flexcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    align-self: center;
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+}
+.heading{
+    text-align: center;
+}
+
+
+
+
